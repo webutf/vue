@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.411686a57129ea005945be059a9daf14.js"
+  "precache-manifest.45fea82c58c51af5ace1c934683634e3.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vuetest"});
